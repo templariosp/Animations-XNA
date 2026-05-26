@@ -28,7 +28,7 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MonoLink">
-      <HintPath>..\..\_Assemblies\MonoLink.dll</HintPath>
+      <HintPath>..\..\_DLLs\MonoLink.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
